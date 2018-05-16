@@ -1,4 +1,6 @@
-# scratchnetworkclient
-client for scratchnetwork - edxt.net/ed/scratchnetwork
+# ScratcherNetwork Client
+Client for ScratcherNetwork based on ScratchNetwork.
 
-##NOTE: THESE FILES WON'T COMMUNICATE WITH SCRATCNETWORK WITHOUT AN API KEY(working on an API). THIS IS ALSO IS NOT THE ENTIRE WEBSITE. The backend is not open-source.
+ScratchNetwork is non-free and propritary software. So I am going to work on a new version that is free software called ScratcherNetwork. It will use a similar client (due to its ease of use), and it will be fully free and open source.
+
+This project was not started lightly, as I have asked myeducate over and over again to fix this major problem. However, I see no other option. 
