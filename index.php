@@ -64,6 +64,12 @@ if (isset($_SESSION['theme'])) {
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License
+
+
+
+This client is distributed under the GNU GPL License at https://github.com/MasterOfTheTiger/scratchnetworkclient/
+
+ScratcherNetwork is a fork of ScratchNetwork. The original was made by myeducate, and this one by MasterOfTheTiger. 
 -->
 <?php
 if (isset($_GET['nosupport'])) {
@@ -82,8 +88,8 @@ font-family: \'Roboto\', sans-serif;
 }
 </style>
 <div class="error">
-  <b><font size=5>Your browser doesn\'t support the libaries necissary for ScratchNetwork to run.</font></b><br>
-Please try upgrading to a newer browser, such as Chrome, Firefox, Opera or Edge.
+  <b><font size=5>Your browser doesn\'t support the libaries necessary for ScratchNetwork to run.</font></b><br>
+Please try upgrading to a newer browser, such as Firefox, Un-Googled Chromium, Epiphany, or Brave
 
 </div>
 
