@@ -88,7 +88,7 @@ font-family: \'Roboto\', sans-serif;
 }
 </style>
 <div class="error">
-  <b><font size=5>Your browser doesn\'t support the libaries necessary for ScratchNetwork to run.</font></b><br>
+  <b><font size=5>Your browser doesn\'t support the libaries necessary for ScratcherNetwork to run.</font></b><br>
 Please try upgrading to a newer browser, such as Firefox, Un-Googled Chromium, Epiphany, or Brave
 
 </div>
@@ -106,7 +106,7 @@ Please try upgrading to a newer browser, such as Firefox, Un-Googled Chromium, E
     <meta name="description" content="A web network for Scratch Studios, Shops and projects.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="google-site-verification" content="hmvjiew33eKygaS_bbEORw58H7-HKvC-k-PqsWJ2mx8" />
-    <title>ScratchNetwork</title>
+    <title>ScratcherNetwork - A free and safe replacement for ScratchNetwork</title>
 
     <!-- Add to homescreen for Chrome on Android -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -115,7 +115,7 @@ Please try upgrading to a newer browser, such as Firefox, Un-Googled Chromium, E
     <!-- Add to homescreen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="grey">
-    <meta name="apple-mobile-web-app-title" content="ScratchNetwork">
+    <meta name="apple-mobile-web-app-title" content="ScratcherNetwork">
     <link rel="apple-touch-icon-precomposed" href="images/ScratchNetworkDesktopIOS.png">
 
     <!-- Tile icon for Win8 (144x144 + tile color) -->
